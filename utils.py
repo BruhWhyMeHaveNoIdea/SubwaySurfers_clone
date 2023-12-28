@@ -1,0 +1,6 @@
+def get_information(data: dict) -> dict:
+    ...
+
+
+def get_record() -> str:
+    ...
